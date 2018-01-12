@@ -1,7 +1,7 @@
 {
 	"manifest_version":2,
-	"name": "ggeett bbeeaanneedd",
-	"version":"1.1",
+	"name": "Get Beaned!",
+	"version":"1.0",
 	"content_scripts": [
   {
     "matches": [
